@@ -1,7 +1,7 @@
 # Project-UAS-Basprog
 # Dokumentasi
 
-# YOUTUBE
-https://youtu.be/vUDBt_UbkL0
+YOUTUBE
+LINK DOKUMENTASI https://youtu.be/vUDBt_UbkL0
 PDF
 LINK DOKUMENTASI
